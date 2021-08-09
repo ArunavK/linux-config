@@ -48,6 +48,7 @@ call plug#end()
 
 " Airline options
 let g:airline_powerline_fonts=1
+let g:airline#extensions#tabline#enabled=1
 
 " vim-markdown options
 let g:vim_markdown_folding_disabled=1
